@@ -1,0 +1,42 @@
+h1{
+    font-size: 16px;
+}
+
+h2{
+    font-size: 14px;
+}
+
+h3{
+    font-size: 12px;
+}
+
+button{
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(9, 185, 9);
+    border-radius: 10px;
+    border: none;
+    padding: 5px;
+    width: 80px;
+}
+
+div{
+    font-family: 'Verdana';
+    line-height: 10px;
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+    width: 100px;
+    height: 130px;
+}
+
+strong{
+    font-weight: bold;
+}
+
+p{
+    font-size: 10px;
+}
